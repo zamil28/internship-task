@@ -1,0 +1,12 @@
+{"level":"info","message":"Input sanitized successfully","original":"<script>alert(\"xss\")</script>","sanitized":"&lt;script&gt;alert(&quot;xss&quot;)&lt;&#x2F;script&gt;","timestamp":"2026-06-25T20:29:31.363Z"}
+{"level":"info","message":"Password hashed successfully","timestamp":"2026-06-25T20:29:31.535Z"}
+{"level":"info","message":"Password verification","success":true,"timestamp":"2026-06-25T20:29:31.686Z"}
+{"level":"info","message":"JWT token generated","timestamp":"2026-06-25T20:29:31.690Z","userId":1}
+{"error":"callback is not a function","level":"warn","message":"Invalid JWT token","timestamp":"2026-06-25T20:29:31.693Z"}
+{"email":"invalid-email","level":"warn","message":"Invalid email format","timestamp":"2026-06-25T20:29:31.699Z"}
+{"level":"info","message":"Input sanitized successfully","original":"<script>alert(\"xss\")</script>","sanitized":"&lt;script&gt;alert(&quot;xss&quot;)&lt;&#x2F;script&gt;","timestamp":"2026-06-27T15:09:09.846Z"}
+{"level":"info","message":"Password hashed successfully","timestamp":"2026-06-27T15:09:09.926Z"}
+{"level":"info","message":"Password verification","success":true,"timestamp":"2026-06-27T15:09:09.989Z"}
+{"level":"info","message":"JWT token generated","timestamp":"2026-06-27T15:09:09.995Z","userId":1}
+{"error":"callback is not a function","level":"warn","message":"Invalid JWT token","timestamp":"2026-06-27T15:09:09.997Z"}
+{"email":"invalid-email","level":"warn","message":"Invalid email format","timestamp":"2026-06-27T15:09:10.001Z"}
